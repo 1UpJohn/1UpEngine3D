@@ -10,4 +10,4 @@
 ## 🛠 Development Core
 This engine is built using the latest C++ standards and industry-standard graphics APIs.
 
-*   **Language:** [C++ (Standard C++)](
+*   **Language:** [C++ (Standard C++)](https://isocpp.org/)
