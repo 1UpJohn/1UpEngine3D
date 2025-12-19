@@ -39,8 +39,5 @@ cd build
 cmake .. // This creates a .sln (Solution) file in your build folder
 cmake --build . --config 1UpEngine
 cd 1UpEngine
-./1UpEngine3D.exe
-
-
-
 ```
+* Open 1UpEngine3D.exe in the build folder or simply move the 1UpEgine to whereever you like..
