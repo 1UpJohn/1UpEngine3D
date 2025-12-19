@@ -6,3 +6,8 @@
 > Uses **[OpenGL](https://www.opengl.org/)** Renderer to run 3d models efficiently. <br>
 > Less performance issues, less *lag* <br>
 > No worries of **memory leaks**.
+
+## 🛠 Development Core
+This engine is built using the latest C++ standards and industry-standard graphics APIs.
+
+*   **Language:** [C++ (Standard C++)](
