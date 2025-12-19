@@ -13,7 +13,6 @@ This engine is built using the latest C++ standards and industry-standard graphi
 *   **Language:** [C++ (Standard C++)](https://isocpp.org/)
 *   **Reference:** [C++ Reference (cppreference.com)](en.cppreference.com)
 
-## 📦 Package Managers
-To manage dependencies like GLM, GLFW, or Glad, we recommend the following C++ package managers:
-
-* 
+## 📦 How to Compile
+**##WARNING!##**
+* Supported Builds available for the engine : >> **"Windows 7 or above, GNU/Linux, FREEBSD"**
