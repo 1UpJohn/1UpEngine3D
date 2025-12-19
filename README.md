@@ -20,6 +20,7 @@ This engine is built using the latest C++ standards and industry-standard graphi
 *  GNU/Linux<br>
 *  FREEBSD
 
+- Bash * Linux compilation
 ```Bash * Linux
 git clone "https://github.com/1UpJohn/1UpEngine3D/*placeholder*"
 mkdir build
@@ -27,4 +28,19 @@ cd build
 cmake ..
 sudo chmod +x Start
 ./Start
+```
+
+- Windows Powershell Compilation
+* INSTALL GIT BEFORE PROCEEDING!
+```
+git clone "https://github.com/1UpJohn/1UpEngine3D/*placeholder*"
+mkdir build
+cd build
+cmake .. // This creates a .sln (Solution) file in your build folder
+cmake --build . --config 1UpEngine
+cd 1UpEngine
+./1UpEngine3D.exe
+
+
+
 ```
