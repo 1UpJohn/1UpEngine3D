@@ -19,3 +19,12 @@ This engine is built using the latest C++ standards and industry-standard graphi
 * Windows 7 or above.<br>
 *  GNU/Linux<br>
 *  FREEBSD
+
+```Bash * Linux
+git clone "https://github.com/1UpJohn/1UpEngine3D/*placeholder*"
+mkdir build
+cd build
+cmake ..
+sudo chmod +x Start
+./Start
+```
