@@ -15,11 +15,12 @@ This engine is built using the latest C++ standards and industry-standard graphi
 
 ## 📦 How to Compile
 **##WARNING!##**
-* Supported Builds available for the engine : <br> 
+ Supported Builds available for the engine : <br> 
 * Windows 7 or above.<br>
 *  GNU/Linux<br>
 *  FREEBSD
 
+---------------------------------------------------------------------
 - Bash * Linux compilation
 ```Bash * Linux
 git clone "https://github.com/1UpJohn/1UpEngine3D/*placeholder*"
@@ -29,7 +30,7 @@ cmake ..
 sudo chmod +x Start
 ./Start
 ```
-
+---------------------------------------------------------------------
 - Windows Powershell Compilation
 * INSTALL GIT BEFORE PROCEEDING!
 ```
@@ -41,3 +42,4 @@ cmake --build . --config 1UpEngine
 cd 1UpEngine
 ```
 * Open 1UpEngine3D.exe in the build folder or simply move the 1UpEgine to whereever you like..
+ ---------------------------------------------------------------------
