@@ -16,5 +16,4 @@ This engine is built using the latest C++ standards and industry-standard graphi
 ## 📦 Package Managers
 To manage dependencies like GLM, GLFW, or Glad, we recommend the following C++ package managers:
 
-*   **[vcpkg](https://vcpkg.io/)**: A free, open-source C/C++ package manager from Microsoft that works on Windows, macOS, and Linux.
-*   **[Conan](https://conan.io/)**: A decentralized, open-source (MIT) package manager for C and C++ developers.
+* 
