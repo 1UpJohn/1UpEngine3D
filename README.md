@@ -21,7 +21,7 @@ This engine is built using the latest C++ standards and industry-standard graphi
 *  FREEBSD
 
 ---------------------------------------------------------------------
-- Bash * Linux compilation
+** Bash * Linux compilation **
 ```Bash * Linux
 git clone "https://github.com/1UpJohn/1UpEngine3D/*placeholder*"
 mkdir build
@@ -31,7 +31,7 @@ sudo chmod +x Start
 ./Start
 ```
 ---------------------------------------------------------------------
-- Windows Powershell Compilation
+** Windows Powershell Compilation **
 * INSTALL GIT BEFORE PROCEEDING!
 ```
 git clone "https://github.com/1UpJohn/1UpEngine3D/*placeholder*"
