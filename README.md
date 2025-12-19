@@ -17,5 +17,5 @@ This engine is built using the latest C++ standards and industry-standard graphi
 **##WARNING!##**
 * Supported Builds available for the engine : <br> 
 * Windows 7 or above.
-* <br> GNU/Linux
-* <br> FREEBSD
+<br>*  GNU/Linux
+<br>*  FREEBSD
