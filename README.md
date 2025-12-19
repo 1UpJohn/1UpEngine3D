@@ -32,7 +32,7 @@ sudo chmod +x Start
 ```
 ---------------------------------------------------------------------
 **Windows Powershell Compilation**
-* INSTALL GIT BEFORE PROCEEDING!
+* INSTALL GIT,CMake,g++ BEFORE PROCEEDING!
 ```
 git clone "https://github.com/1UpJohn/1UpEngine3D/*placeholder*"
 mkdir build
@@ -41,5 +41,5 @@ cmake .. // This creates a .sln (Solution) file in your build folder
 cmake --build . --config 1UpEngine
 cd 1UpEngine
 ```
-* Open 1UpEngine3D.exe in the build folder or simply move the 1UpEgine to whereever you like..
+* Open 1UpEngine3D.exe in the build folder or simply move the 1UpEgine to wherever you like..
  ---------------------------------------------------------------------
