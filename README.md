@@ -4,4 +4,5 @@
 
 # FEATURES OF 1UpEngine3D:
 > Uses **OpenGl** Renderer to run 3d models efficiently. <br>
-> Less performance issues, less *lag*
+> Less performance issues, less *lag* <br>
+> No worries of **memory leaks**.
