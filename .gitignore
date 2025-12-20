@@ -11,3 +11,4 @@ Thumbs.db
 .qmake.stash
 Makefile
 Makefile.*
+.vs/
