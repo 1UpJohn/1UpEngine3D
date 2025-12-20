@@ -108,8 +108,10 @@ public:
         setWindowTitle("1 Up Engine");
         setMinimumSize(900, 600);
         resize(1200, 800);
-        show();
-        raise();
+        
+        setWindowFlags(windowFlags() | Qt::Window);
+        setAttribute(Qt::WA_ShowModal, false);
+        setAttribute(Qt::WA_DeleteOnClose, false);
 
         centralWidget = new QWidget(this);
         mainLayout = new QHBoxLayout(centralWidget);
@@ -478,11 +480,7 @@ int main(int argc, char* argv[]) {
     MenuSystem window;
     window.hide();
 
-    QTimer::singleShot(3000, [&]() {
-        splash.close();
-        window.show();
-        window.raise();
-    });
+    QObject::connect(&splash, &SplashScreen::loadingComplete, &window, &QWidget::show);
 
     return app.exec();
 }
