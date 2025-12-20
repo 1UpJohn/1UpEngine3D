@@ -1,0 +1,13 @@
+build/
+*.o
+*.moc
+moc_*
+ui_*
+qrc_*
+*.exe
+*.app
+.DS_Store
+Thumbs.db
+.qmake.stash
+Makefile
+Makefile.*
